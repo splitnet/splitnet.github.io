@@ -1,14 +1,14 @@
-# Nerfies
+# SplitNet
 
-This is the repository that contains source code for the Splitnet.
+This is the repository that contains HTML code for the Splitnet.
 
-If you find Nerfies useful for your work please cite:
+If you find SplitNet useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{kim2022splitnet,
+  title={SplitNet: Learnable Clean-Noisy Label Splitting for Learning with Noisy Labels},
+  author={Kim, Daehwan and Ryoo, Kwangrok and Cho, Hansang and Kim, Seungryong},
+  journal={arXiv preprint arXiv:2211.11753},
+  year={2022}
 }
 ```
 
